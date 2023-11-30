@@ -19,7 +19,7 @@ Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one
 </ul>
 
 ## Contact :-
-LinkedIn : https://www.linkedin.com/in/qazi-noman-alam-ba4068255
+LinkedIn : https://www.linkedin.com/in/qazinalam/
 Email : qazinalam@gmail.com
 
 Thank you!
